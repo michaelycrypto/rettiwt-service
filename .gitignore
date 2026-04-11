@@ -50,4 +50,7 @@ Thumbs.db
 .idea/
 .vscode/
 
+# Local TODO
+TODO.md
+
 
